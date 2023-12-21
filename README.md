@@ -34,7 +34,7 @@ A remoção de outliers revelou uma tendência interessante seguida pelo modelo:
 Uma análise comparativa entre testes de previsões utilizando apartamentos e casas, considerando características e localização semelhantes, foi possivel perceber que apartamentos tendem a ter preços mais altos, esta observação sugere que, além das características específicas, o tipo de propriedade desempenha um papel crucial na determinação dos preços para o modelo, com casas sendo uma opção mais acessível em comparação com apartamentos.
 
 ### 4. **Adaptação do Modelo para Deployment:**
-Inicialmente, utilizou-se o modelo Extratrees, que apresentou bom desempenho com R² elevado. No entanto, devido ao tamanho do modelo, optou-se pelo XGBoost para permitir o deploy do projeto. Mesmo assim, foi necessário reduzir a complexidade do modelo para que fosse possivel o upload do painel, resultando na diminuição de algumas métricas, como a diminuiçãodo R², e no aumento significativo do MAPE. Essas adaptações foram essenciais para manter a funcionalidade do painel.
+Inicialmente, utilizou-se o modelo Extratrees, que apresentou bom desempenho com R² em torno de 97.57%. No entanto, devido ao tamanho do modelo, optou-se pelo XGBoost para permitir o deploy do projeto. Mesmo assim, foi necessário reduzir a complexidade do modelo para que fosse possivel o upload do painel, resultando na diminuição de algumas métricas, como a diminuiçãodo R², e no aumento significativo do MAPE. Essas adaptações foram essenciais para manter a funcionalidade do painel em produção.
 
 # 6. O Produto Final do Projeto
 O resultado final deste projeto é um painel online acessível em qualquer dispositivo conectado à internet. Hospedado na nuvem, o painel oferece uma interface intuitiva para fornecer características específicas de imóveis, utilizando o modelo de previsão desenvolvido, o painel realiza previsões de preços permitindo que anfitriões e locatários obtenham estimativas de preços com base nas características do local.
@@ -43,7 +43,7 @@ Este painel representa não apenas a conclusão do projeto, mas também uma ferr
 O painel pode ser acessado através desse link: https://airbnbrioproject.streamlit.app/
 
 # 7. Conclusão 
-O Objetivo do projeto envolveu a construção e treinamento de um modelo de machine learning capaz de prever os preços com base nas características dos imóveis. Ao testar o modelo, conseguimos obter algumas previsões e insights significativos.
+O Objetivo do projeto envolveu a construção e treinamento de um modelo de machine learning capaz de prever os preços com base nas características dos imóveis. Ao testar o modelo, foi possivel obter algumas previsões e insights significativos.
 Em resumo, este projeto não apenas atingiu seus objetivos iniciais, mas também forneceu uma ferramenta prática para que anfitriões e locatários possam ter uma base de valores cobrados por imoveis, baseado em suas carcteristicas.
 
 # 8. Proximos Passos
