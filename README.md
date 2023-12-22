@@ -17,11 +17,11 @@ https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
 # 4. Expectativas Iniciais
 Algumas hipóteses iniciais foram levantadas para direcionar a análise:
 
-Sazonalidade: A sazonalidade pode desempenhar um papel crucial, especialmente em meses como dezembro, que historicamente podem apresentar preços mais elevados no Rio de Janeiro.
+**Sazonalidade:** A sazonalidade pode desempenhar um papel crucial, especialmente em meses como dezembro, que historicamente podem apresentar preços mais elevados no Rio de Janeiro.
 
-Localização: Dada a diversidade da cidade, a localização do imóvel é esperada para ser um fator determinante nos preços, influenciando elementos como segurança, beleza natural e proximidade a pontos turísticos.
+**Localização:** Dada a diversidade da cidade, a localização do imóvel é esperada para ser um fator determinante nos preços, influenciando elementos como segurança, beleza natural e proximidade a pontos turísticos.
 
-Adicionais/Comodidades: A presença ou ausência de comodidades adicionais pode impactar significativamente os preços, dado o contexto de prédios e casas antigas no Rio de Janeiro.
+**Adicionais/Comodidades:** A presença ou ausência de comodidades adicionais pode impactar significativamente os preços, dado o contexto de prédios e casas antigas no Rio de Janeiro.
 
 # 5. Principais Observações Retiradas do Modelo de Previsão:
 ### 1. Variação de Preços ao Longo do Ano:
