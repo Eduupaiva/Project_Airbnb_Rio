@@ -57,3 +57,5 @@ Procurar por bases de dados mais abrangentes que incluam informações de divers
 ### 3. Avaliação de Métricas de Desempenho:
 Buscar uma compreensão mais granular da eficácia do modelo em diferentes contextos, identificando áreas de melhoria específicas.
 
+
+Portifólio de Projetos: https://eduupaiva.github.io/portifolio_projetos/
